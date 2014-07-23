@@ -1,6 +1,4 @@
-docker-test
-===========
+Node.js Hello World
+===================
 
-Testing automated builds on Docker Hub
-
-Ubuntu 14.04 with Sinatra framework.
+Node.js Hello World on Ubuntu 14.04 using docker.
